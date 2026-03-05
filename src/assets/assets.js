@@ -294,7 +294,7 @@ export const dummyDashboardData = {
 export const dummyBookingData = [
     {
         "_id": "68396334fb83252d82e17295",
-        "user": { "name": "GreatStack", },
+        "user": { "name": "PopCorn", },
         "show": {
             _id: "68352363e96d99513e4221a4",
             movie: dummyShowsData[0],
@@ -307,7 +307,7 @@ export const dummyBookingData = [
     },
     {
         "_id": "68396334fb83252d82e17295",
-        "user": { "name": "GreatStack", },
+        "user": { "name": "PopCorn", },
         "show": {
             _id: "68352363e96d99513e4221a4",
             movie: dummyShowsData[0],
@@ -320,7 +320,7 @@ export const dummyBookingData = [
     },
     {
         "_id": "68396334fb83252d82e17295",
-        "user": { "name": "GreatStack", },
+        "user": { "name": "PopCorn", },
         "show": {
             _id: "68352363e96d99513e4221a4",
             movie: dummyShowsData[0],

@@ -1,8 +1,15 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 const AddShows = () => {
+const currency = import.meta.env.VITE_CURRENCY
+
+const[nowPlayingMovies, setNowPlayingMovies] = useState([]);
+
+
   return (
-    <div>AddShows</div>
+    <div>
+
+    </div>
   )
 }
 
