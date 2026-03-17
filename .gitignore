@@ -24,5 +24,5 @@ lerna-debug.log*
 *.sw?
 
 .env
-.env
 client/.env
+server/.env
