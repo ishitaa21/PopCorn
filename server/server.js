@@ -22,7 +22,7 @@ app.use(cors())
 
 //API routes
 app.get('/',(req,res)=> res.send('server is live!'))
-app.use('/api/inngest',serve({ client: inngest, functions }))
+app.use('/api/inngest', serve({ client: inngest, functions }))
 
 app.use(clerkMiddleware())
 
