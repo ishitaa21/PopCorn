@@ -27,3 +27,5 @@ app.use('/api/inngest', serve({ client: inngest, functions }))
 app.use(clerkMiddleware())
 
 app.listen(port, ()=> console.log(`server listening at http://localhost:${port}`));
+
+export default app;
